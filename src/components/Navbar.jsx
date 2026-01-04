@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import  { useState } from "react";
 import { FaInstagramSquare, FaFacebookSquare } from "react-icons/fa";
 import { FaSquarePhone } from "react-icons/fa6"
 import { MdEmail } from "react-icons/md";

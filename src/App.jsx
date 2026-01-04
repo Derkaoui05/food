@@ -24,7 +24,7 @@ function App() {
       <Navbar />
       <Slider />
       <Routes>
-      <Route path='/' element={<Menu />} />
+        <Route path='/' element={<Menu />} />
         <Route path='/food' element={<Food />}></Route>
         <Route path='/cart' element={<Cart />}></Route>
         <Route path='/about' element={<About />}></Route>
